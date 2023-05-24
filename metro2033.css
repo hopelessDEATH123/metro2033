@@ -1,1 +1,6 @@
-
+body {
+		background: #000 url(https://mobimg.b-cdn.net/v3/fetch/2b/2b28c4f57258b0bb039704e26f43d12a.jpeg); /* Фоновый цвет и фоновый рисунок*/
+		color: #fff; /*Цвет текста на странице*/
+		background-attachment: fixed; /* Фон страницы фиксируется */
+		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
+	}
